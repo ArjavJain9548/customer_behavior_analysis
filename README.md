@@ -1,5 +1,5 @@
 # customer_behavior_analysis
-data analytics project showcasing customer behavior analysis using python, sql and power Bi.
+Data analytics project showcasing customer behavior analysis using python, sql and power Bi.
 
 # Overview
 This project analyzes retail customer shopping behavior to help a business improve sales performance, customer engagement, and long term loyalty.
